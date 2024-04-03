@@ -1,3 +1,3 @@
 # SISCom
-Primer Repositorio del grupo/n
+Primer Repositorio del grupo
 Enzo Barreto
