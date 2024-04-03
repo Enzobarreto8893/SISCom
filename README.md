@@ -1,4 +1,8 @@
 # SISCom
-Primer Repositorio del grupo 
-## voy a colocar los integrantes del grupo
+Primer Repositorio del grupo
 Enzo Barreto
+Rodrigo Buriani
+Hola Diego
+
+Sabrina Elgart
+Diego Barboza
